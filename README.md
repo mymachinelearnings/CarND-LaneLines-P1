@@ -4,8 +4,6 @@
 ## Term 1 Project 1 : Finding Lane Lines on the Road
 ### Project Writeup
 
-#### Project Writeup
-
 ---
  
 **Input** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Images or Videos<br/>
@@ -179,3 +177,7 @@ Note : Test set for this code is contained in test_images & test_videos, and the
 
 ### **Acknowledgements** <br/>
 Thanks to Udacity for providing the startup code to start with. And a great community help from stackoverflow.com & github.com
+
+```python
+
+```
